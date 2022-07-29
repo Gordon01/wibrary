@@ -1,0 +1,1 @@
+gcc main.c -o wbin_c -lwibrary -L../target/debug -Wall -Wextra -Werror

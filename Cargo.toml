@@ -11,3 +11,6 @@ name = "wbin"
 path = "src/main.rs"
 
 [dependencies]
+
+[build-dependencies]
+cbindgen = "0.20.0"
